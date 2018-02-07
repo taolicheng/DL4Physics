@@ -1,3 +1,7 @@
+To-Do:
+* [New Deep Learning Techniques Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/)
+
+
 * [DL](#deep-learning)
 * [DL in Physics](#deep-learning-in-physics)
 * [DL in HEP](#deep-learning-in-hep)
