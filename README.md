@@ -3,7 +3,7 @@
 * [DL in HEP](#deep-learning-in-hep)
 
 ## Deep Learning
-
+* [Geometric Deep Learning](http://geometricdeeplearning.com/)
 
 ## Deep Learning in Physics
 
