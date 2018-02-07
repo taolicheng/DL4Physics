@@ -7,7 +7,13 @@
 
 ## Deep Learning in Physics
 
-* Many Boby Physics Workshop 2017(http://kits.ucas.ac.cn/index.php/events/workshop/52-machine-learning-and-many-body-physics-jun-28th-jul-7th-2017)
+* [Many Boby Physics Workshop 2017](http://kits.ucas.ac.cn/index.php/events/workshop/52-machine-learning-and-many-body-physics-jun-28th-jul-7th-2017)
 
 
 ## Deep Learning in HEP
+
+
+### DL in Jet Physics
+
+
+
