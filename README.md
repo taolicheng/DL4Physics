@@ -16,7 +16,7 @@
 
 ### Confs and Workshops
 
-* [Machine Learning and Physics, IASTU](http://mlphys2018.csp.escience.cn/dct/page/1)
+* [Machine Learning and Physics 2018, IASTU](http://mlphys2018.csp.escience.cn/dct/page/1)
 * [Many Boby Physics Workshop 2017](http://kits.ucas.ac.cn/index.php/events/workshop/52-machine-learning-and-many-body-physics-jun-28th-jul-7th-2017)
 
 ## Deep Learning in HEP
