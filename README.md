@@ -22,6 +22,8 @@ A more comprehensive list of resources can be found [here](https://physicsml.git
 * [Many Boby Physics Workshop 2017](http://kits.ucas.ac.cn/index.php/events/workshop/52-machine-learning-and-many-body-physics-jun-28th-jul-7th-2017)
 
 ## Deep Learning in HEP
+An active list maintained by IML working group can be found [here](https://github.com/iml-wg/HEP-ML-Resources)
+
 * Monte Carlo
 
 ### DL in Jet Physics
