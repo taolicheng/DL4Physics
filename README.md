@@ -24,9 +24,17 @@ A more comprehensive list of resources can be found [here](https://physicsml.git
 ## Deep Learning in HEP
 An active list maintained by IML working group can be found [here](https://github.com/iml-wg/HEP-ML-Resources)
 
-* Monte Carlo
+### Jet Physics
+See relevant blocks in another repository: [jet-physics-notes](https://github.com/taolicheng/jet-physics-notes)
+ 
+### Signal Detection
+*  **CWoLa Hunting: Extending the Bump Hunt with Machine Learning**,
+Jack H. Collins (Maryland U. & Johns Hopkins U.), Kiel Howe (Fermilab), Benjamin Nachman (UC, Berkeley & LBL, Berkeley).
+arXiv:1805.02664 [[inspire]](https://inspirehep.net/record/1672143)
 
-### DL in Jet Physics
+### Pile-up Mitigation
+*  **Pileup Mitigation with Machine Learning (PUMML)**,
+Patrick T. Komiske, Eric M. Metodiev (MIT, Cambridge, CTP), Benjamin Nachman (LBL, Berkeley), Matthew D. Schwartz (Harvard U., Phys. Dept.). arXiv: arXiv:1707.08600. [[inspire]](http://inspirehep.net/record/1613324)
 
 
 
