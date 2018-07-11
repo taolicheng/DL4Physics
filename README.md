@@ -24,6 +24,10 @@ A more comprehensive list of resources can be found [here](https://physicsml.git
 ## Deep Learning in HEP
 An active list maintained by IML working group can be found [here](https://github.com/iml-wg/HEP-ML-Resources)
 
+### Model Inference
+* **A Guide to Constraining Effective Field Theories with Machine Learning**,
+Johann Brehmer, Kyle Cranmer (New York U.), Gilles Louppe (Liege U.), Juan Pavez (Santa Maria U., Valparaiso). arXiv:1805.00020. [[inspire]](http://inspirehep.net/record/1670939). Main letter: https://arxiv.org/abs/1805.00013
+
 ### Jet Physics
 See relevant blocks in another repository: [jet-physics-notes](https://github.com/taolicheng/jet-physics-notes)
  
