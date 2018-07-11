@@ -18,7 +18,7 @@ A more comprehensive list of resources can be found [here](https://physicsml.git
 
 ### Confs and Workshops
 
-* [Machine Learning and Physics 2018, IASTU](http://mlphys2018.csp.escience.cn/dct/page/1)
+* [Machine Learning and Physics 2018, IASTU](http://mlphys2018.csp.escience.cn/dct/page/1). [Video Recording](http://live.vhall.com/192630502)
 * [Many Boby Physics Workshop 2017](http://kits.ucas.ac.cn/index.php/events/workshop/52-machine-learning-and-many-body-physics-jun-28th-jul-7th-2017)
 
 ## Deep Learning in HEP
