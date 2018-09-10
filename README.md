@@ -36,6 +36,11 @@ See relevant blocks in another repository: [jet-physics-notes](https://github.co
 Jack H. Collins (Maryland U. & Johns Hopkins U.), Kiel Howe (Fermilab), Benjamin Nachman (UC, Berkeley & LBL, Berkeley).
 arXiv:1805.02664 [[inspire]](https://inspirehep.net/record/1672143)
 
+### Domain Adaption
+* **Learning to Pivot with Adversarial Networks**,
+Gilles Louppe (New York U. (main)), Michael Kagan, Kyle Cranmer (New York U.).
+arXiv:1611.01046. [[inspire]](http://inspirehep.net/record/1495901)
+
 ### Pile-up Mitigation
 *  **Pileup Mitigation with Machine Learning (PUMML)**,
 Patrick T. Komiske, Eric M. Metodiev (MIT, Cambridge, CTP), Benjamin Nachman (LBL, Berkeley), Matthew D. Schwartz (Harvard U., Phys. Dept.). arXiv: arXiv:1707.08600. [[inspire]](http://inspirehep.net/record/1613324)
