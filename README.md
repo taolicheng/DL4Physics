@@ -16,6 +16,8 @@ A more comprehensive list of resources can be found [here](https://physicsml.git
 * Mutual Information, Neural Networks and the Renormalization Group. Maciej Koch-Janusz, Zohar Ringel. 	[arXiv:1704.06279](https://arxiv.org/abs/1704.06279)
 * Why does deep and cheap learning work so well? Henry W. Lin (Harvard), Max Tegmark (MIT), David Rolnick (MIT). [arXiv: 1608.08225](https://arxiv.org/pdf/1608.08225.pdf)
 
+* Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines. Li Huang, Lei Wang. [arXiv:1610.02746](https://arxiv.org/abs/1610.02746)
+
 ### Confs and Workshops
 
 * [Machine Learning and Physics 2018, IASTU](http://mlphys2018.csp.escience.cn/dct/page/1). [[Video Recording]](http://live.vhall.com/192630502)
