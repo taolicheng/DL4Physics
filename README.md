@@ -13,9 +13,9 @@
 ### Papers
 A more comprehensive list of resources can be found [here](https://physicsml.github.io/) (more related to condensed matter physics)
 
+* Neural Network Renormalization Group, Shuo-Hui Li, Lei Wang. [arXiv:1802.02840](https://arxiv.org/abs/1802.02840)
 * Mutual Information, Neural Networks and the Renormalization Group. Maciej Koch-Janusz, Zohar Ringel. 	[arXiv:1704.06279](https://arxiv.org/abs/1704.06279)
 * Why does deep and cheap learning work so well? Henry W. Lin (Harvard), Max Tegmark (MIT), David Rolnick (MIT). [arXiv: 1608.08225](https://arxiv.org/pdf/1608.08225.pdf)
-
 * Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines. Li Huang, Lei Wang. [arXiv:1610.02746](https://arxiv.org/abs/1610.02746)
 
 ### Confs and Workshops
