@@ -43,6 +43,7 @@ arXiv:1805.02664 [[inspire]](https://inspirehep.net/record/1672143)
 * **Learning to Pivot with Adversarial Networks**,
 Gilles Louppe (New York U. (main)), Michael Kagan, Kyle Cranmer (New York U.).
 arXiv:1611.01046. [[inspire]](http://inspirehep.net/record/1495901)
+* **Domain-Adversarial Training of Neural Networks**, Yaroslav Ganin, et al. [arXiv:1505.07818.](https://arxiv.org/abs/1505.07818) 
 
 ### Pile-up Mitigation
 *  **Pileup Mitigation with Machine Learning (PUMML)**,
