@@ -16,7 +16,7 @@ A more comprehensive list of resources can be found [here](https://physicsml.git
 
 #### Basics
 * A high-bias, low-variance introduction to Machine Learning for physicists,
-Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab. [arXiv:1803.08823] (https://arxiv.org/abs/1803.08823)
+Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab. [arXiv:1803.08823](https://arxiv.org/abs/1803.08823)
 
 #### Specific Topics
 * Neural Network Renormalization Group, Shuo-Hui Li, Lei Wang. [arXiv:1802.02840](https://arxiv.org/abs/1802.02840)
