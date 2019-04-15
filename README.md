@@ -15,6 +15,7 @@
 A more comprehensive list of resources can be found [here](https://physicsml.github.io/) (more related to condensed matter physics)
 
 #### Basics
+* Machine learning and the physical sciences, [arXiv:1903.10563](https://arxiv.org/pdf/1903.10563.pdf)
 * A high-bias, low-variance introduction to Machine Learning for physicists,
 Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab. [arXiv:1803.08823](https://arxiv.org/abs/1803.08823)
 
