@@ -36,6 +36,8 @@ An active list maintained by IML working group can be found [here](https://githu
 
 ### Papers
 
+* **Machine Learning in High Energy Physics Community White Paper**, arXiv:1807.02876. [[inspire]](http://inspirehep.net/record/1681439)
+
 #### Model Inference
 * **A Guide to Constraining Effective Field Theories with Machine Learning**,
 Johann Brehmer, Kyle Cranmer (New York U.), Gilles Louppe (Liege U.), Juan Pavez (Santa Maria U., Valparaiso). arXiv:1805.00020. [[inspire]](http://inspirehep.net/record/1670939). Main letter: https://arxiv.org/abs/1805.00013
