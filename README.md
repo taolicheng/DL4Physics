@@ -28,6 +28,7 @@ Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson,
 
 ### Confs and Workshops
 
+* [Physics for Deep Learning Workshop, ICML 2019](https://sites.google.com/view/icml2019phys4dl/home?authuser=0) 
 * [Machine Learning and Physics 2018, IASTU](http://mlphys2018.csp.escience.cn/dct/page/1). [[Video Recording]](http://live.vhall.com/192630502)
 * [Many Boby Physics Workshop 2017](http://kits.ucas.ac.cn/index.php/events/workshop/52-machine-learning-and-many-body-physics-jun-28th-jul-7th-2017)
 
